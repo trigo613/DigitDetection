@@ -12,6 +12,7 @@ This project focuses on detecting digits in images. The following steps outline 
 - [Step 7: Sliding Windows](#step-7-sliding-windows)
 - [Step 8: Non-Max Suppression](#step-8-non-max-suppression)
 - [Future Improvements](#future-improvements)
+- [Acknowledgments](#acknowledgments)
 
 ## Step 1: Load the Digit Data
 In this step, we load the digit dataset that contains images of digits along with their labels.
@@ -74,3 +75,6 @@ Finally, we apply non-max suppression to filter out overlapping bounding boxes, 
 4. **Performance**
    - Optimize code for better performance
 
+## Acknowledgments
+
+Acknowledgments to Andrew Ng's CNN course for foundational knowledge and guidance in this project.
