@@ -1,4 +1,4 @@
-# Digit Detection Project
+# Digit Detection 
 
 This project focuses on detecting digits in images. The following steps outline the project's strategy, with visual a illustration for each step.
 
