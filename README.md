@@ -62,6 +62,7 @@ Finally, we apply non-max suppression to filter out overlapping bounding boxes, 
 1. **Extended Training Duration**
    - Current model was trained for only 8 epochs
    - Increasing the number of training epochs is expected to significantly improve model accuracy and detection performance
+   - The model is currently good at detecting in which window there is a digit and which digit it is, but it is bad at drawing the bounding boxes, training the model for longer will probably help improve this.
 
 2. **Data Augmentation**
    - Implement additional data augmentation techniques
