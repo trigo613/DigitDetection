@@ -40,7 +40,7 @@ We then draw bounding boxes around the digits that have been randomly placed in 
 ![randomly_placed_digits_bounded](https://github.com/user-attachments/assets/7e3ba732-744d-4d87-b172-cd6ca1b238e3)
 
 ## Step 6: Train the Model
-The model is trained using the dataset we created and it's objective is to detect if there is a digit in the image, if yes then draw a bounding box around it and predict the digit inside
+The model is trained using the dataset we created and it's objective is to detect if there is a digit in the image, if yes then draw a bounding box around it and predict the digit inside. The following is the output of the model on some random sample data after 8 epochs
 
 ![digit_detection_performance](https://github.com/user-attachments/assets/8dbab641-5ab9-43ab-9483-cbe7a0c39498)
 
