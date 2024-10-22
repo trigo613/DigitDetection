@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/e53a261d-933b-4161-8b04-a877171f6070
 ## Step 8: Non-Max Suppression
 Finally, we apply non-max suppression to filter out overlapping bounding boxes, ensuring we retain only the most accurate detections.
 
-![final_boxes](https://github.com/user-attachments/assets/27e9c17c-eddc-4b82-bc38-0830ddd00bf6)
+![final_boxes2](https://github.com/user-attachments/assets/421221a0-fda9-415a-9a23-aa8b2fc8c5ed)
 
 ## Future Improvements
 
