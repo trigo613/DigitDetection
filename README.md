@@ -2,9 +2,9 @@
 
 This project focuses on detecting digits in images. The following steps outline the project's strategy, with visual a illustration for each step.
 
-## Final Product
+## Our goal is to detect digits in an image
 
-https://github.com/user-attachments/assets/e53a261d-933b-4161-8b04-a877171f6070
+![final_boxes2](https://github.com/user-attachments/assets/421221a0-fda9-415a-9a23-aa8b2fc8c5ed)
 
 ## Table of Contents
 - [Step 1: Load the Digit Data](#step-1-load-the-digit-data)
