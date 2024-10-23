@@ -2,6 +2,10 @@
 
 This project focuses on detecting digits in images. The following steps outline the project's strategy, with visual a illustration for each step.
 
+## Our Goal
+
+https://github.com/user-attachments/assets/e53a261d-933b-4161-8b04-a877171f6070
+
 ## Table of Contents
 - [Step 1: Load the Digit Data](#step-1-load-the-digit-data)
 - [Step 2: Create Function to Draw a Box Around a Digit](#step-2-create-function-to-draw-a-box-around-a-digit)
