@@ -2,7 +2,7 @@
 
 This project focuses on detecting digits in images. The following steps outline the project's strategy, with visual a illustration for each step.
 
-## Our Goal
+## Final Product
 
 https://github.com/user-attachments/assets/e53a261d-933b-4161-8b04-a877171f6070
 
